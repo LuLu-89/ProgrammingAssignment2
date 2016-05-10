@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## makeCacheMatrix creates a list containing a function to:
 ## 1. Set the values if the matrix,
 ## 2. Get the values if the matrix,
